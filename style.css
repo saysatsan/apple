@@ -55,7 +55,7 @@ header {
     margin-bottom: 12px;
 }
 .banner {
-    background: url(/img/banner.png) bottom center no-repeat; 
+    background: url(./img/banner.png) bottom center no-repeat; 
     background-size:auto;
 }
 .banner_wrapper {
@@ -99,7 +99,7 @@ header {
     margin-bottom: 12px;
 }
 .polyakova{
-    background: url(/img/iphone_pol.png) bottom center no-repeat;
+    background: url(./img/iphone_pol.png) bottom center no-repeat;
     
     background-size:auto;
     
@@ -206,7 +206,7 @@ header {
 .block1,
 .block2
  {
-  background: url(../img/photo1.jpg) top center no-repeat;
+  background: url(./img/photo1.jpg) top center no-repeat;
   width: 49%;
   height: 580px;
   display: flex;
@@ -282,7 +282,7 @@ header {
     flex-direction: column;    
 }
 .block3 {
-    background: url(/img/img_block3.jpg)top center no-repeat;
+    background: url(./img/img_block3.jpg)top center no-repeat;
     background-size: auto;
     
  
@@ -336,7 +336,7 @@ header {
     background-color: #FBFBFD;
 }
 .block4 {
-    background: url(/img/img_block4.jpg) center no-repeat;
+    background: url(./img/img_block4.jpg) center no-repeat;
     background-size: contain;
     height: 518px;
 } 
@@ -362,7 +362,7 @@ header {
 }
 
 .block1 {
-   background: url(/img/figure.png) bottom center no-repeat;
+   background: url(./img/figure.png) bottom center no-repeat;
  
 }
 
@@ -387,7 +387,7 @@ header {
 }
 
 .block2 {
-    background: url(/img/figure1.png)top center no-repeat;
+    background: url(./img/figure1.png)top center no-repeat;
     
  }
 
